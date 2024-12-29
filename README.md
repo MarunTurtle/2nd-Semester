@@ -2,6 +2,9 @@
 
 <img src="https://github.com/user-attachments/assets/dc297162-ee08-4b90-b6f5-a3d65c4035c8" width="300">
 
+## 이력서 
+- 🐢 [Github](https://github.com/MarunTurtle)  
+
 ## 🎯 목표와 가치관 
 -  **최종 목표**: 에듀테크 기업 CEO, 교육의 혁신 주도
 - **팀플레이어**: 협력에 진심, 함께 성장을 추구
@@ -26,8 +29,7 @@
 - **기획, 발표, 팀 빌딩**: 6년의 국제초중학교 경험, 영어교육학 전공, 3년의 프로젝트 학습(PBL) 전문 교사 경력으로 다져진 높은 기획력, 팀워크, 발표력 소유.
 - **책임감 있는 리더십**: 1학기 CA로서 서로 거리낌 없이 도움을 요청하고 기꺼이 돕는 문화를 정착시킴.
 
-### 이력서 
-- 🐢 [Github](https://github.com/MarunTurtle)  
+
 
 ---
 
