@@ -37,9 +37,36 @@
 ## 🌟 전체 기술 스택 및 깃헙
 - 🐙 [GitHub](https://github.com/MarunTurtle)  
 
+## 🌟 대표 프로젝트 요약
+
+### 1. [Office Olympics](https://github.com/MarunTurtle/OfficeOlympics)
+- **프로젝트 소개**: SSAFY 관통프로젝트 최우수상 수상작. 팀빌딩을 위해 개발된 사무실 맞춤형 서비스.
+- **주요 특징**:
+  - 사용자 친화적인 인터페이스
+  - 서비스 가입 상태 및 이용 패턴에 따른 UI/UX 차별화
+
+### 2. [Fruit Todo Webapp](https://github.com/MarunTurtle/Fruit_Todo_Webapp)
+- **프로젝트 소개**: 인기 과일 게임에서 영감을 받아 Matter.js 물리 엔진을 활용한 인터랙티브 ToDo 앱.
+- **주요 특징**:
+  - 물리 엔진 기반의 시각 효과
+  - 과일 게임 테마를 통해 몰입감 높은 사용자 경험
+
+### 3. [CodeMentor-AI](https://github.com/MarunTurtle/CodeMentor-AI)
+- **프로젝트 소개**: OpenAI GPT-4와 Notion API를 활용한 코드 분석 및 피드백 자동 생성 시스템.
+- **주요 특징**:
+  - 알고리즘 문제 풀이 정리 시간을 절약해주는 자동화 프로그램
+  - Notion 페이지에 자동 피드백 업로드
+
+### 4. [Medi-Moa](https://github.com/MarunTurtle/Medi-Moa)
+- **프로젝트 소개**: 간호사를 위한 병원/의료 게시물 자동 수집 프로그램.
+- **주요 특징**:
+  - 15개의 서로 다른 HTML 구조로 이루어진 의료 사이트의 게시물 자동 수집
+  - 의료/병원 관련 정보 효율적 관리
+
+
 ---
 
-## 🌟 👥 서울7반 동료들의 평가
+## 👥 서울7반 동료들의 평가
 
 - **"늘 그랬듯이, 즐겁게, 그리고 함께 성공해낼 사람."**
 
