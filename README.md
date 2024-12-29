@@ -1,7 +1,7 @@
-# 🏆 About Me
+# 🏆 안녕하세요! 이재현입니다.
 
 <a href="https://github.com/user-attachments/assets/1d1ca869-16bb-4c24-99c5-dd3fe2520adb">
-    <img src="https://github.com/user-attachments/assets/1d1ca869-16bb-4c24-99c5-dd3fe2520adb" width="200">
+    <img src="https://github.com/user-attachments/assets/1d1ca869-16bb-4c24-99c5-dd3fe2520adb" width="300">
 </a>
 
 ## 🌟 목표와 가치관
