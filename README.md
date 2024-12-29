@@ -1,6 +1,7 @@
 # 🏆 안녕하세요! 이재현입니다. 
 
 <img src="https://github.com/user-attachments/assets/dc297162-ee08-4b90-b6f5-a3d65c4035c8" width="300">
+
 더 자세한 소개는 이곳으로: 🐢 [Github](https://github.com/MarunTurtle)  
     
 ## 🎯 목표와 가치관 
