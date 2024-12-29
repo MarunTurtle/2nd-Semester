@@ -1,6 +1,8 @@
 # 🏆 About Me
 
-<a href='https://github.com/user-attachments/assets/1d1ca869-16bb-4c24-99c5-dd3fe2520adb' width=10>
+<a href="https://github.com/user-attachments/assets/1d1ca869-16bb-4c24-99c5-dd3fe2520adb">
+    <img src="https://github.com/user-attachments/assets/1d1ca869-16bb-4c24-99c5-dd3fe2520adb" width="200">
+</a>
 
 ## 🌟 목표와 가치관
 - 🎯 **최종 목표**: 에듀테크 기업 CEO, 교육의 혁신 주도
