@@ -23,7 +23,7 @@
 ---
 
 ## 🌟 전체 기술 스택 및 깃헙
-🔗 **[GitHub 페이지](#)**
+- 🐙 [GitHub](https://github.com/MarunTurtle)  
 
 ---
 
