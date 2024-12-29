@@ -34,8 +34,7 @@
 
 ---
 
-## 🌟 대표 프로젝트 요약
--  🐙 [Github 링크](https://github.com/MarunTurtle)  
+## 🌟 대표 프로젝트 요약 🐙 [Github 링크](https://github.com/MarunTurtle)  
 
 ### 1. [Office Olympics](https://github.com/MarunTurtle/OfficeOlympics)
 - **프로젝트 소개**: SSAFY 관통프로젝트 최우수상 수상작. 팀빌딩을 위해 개발된 사무실 맞춤형 서비스.
