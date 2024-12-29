@@ -1,23 +1,18 @@
 # 🏆 안녕하세요! 이재현입니다. 🐢 [Github](https://github.com/MarunTurtle)  
 
 <a href="https://github.com/user-attachments/assets/dc297162-ee08-4b90-b6f5-a3d65c4035c8">
-    <img src="https://github.com/user-attachments/assets/dc297162-ee08-4b90-b6f5-a3d65c4035c8" width="300" align="left">
+    <img src="https://github.com/user-attachments/assets/dc297162-ee08-4b90-b6f5-a3d65c4035c8" width="300" align="right">
 
-<h2>🌟 목표와 가치관</h2>
-<ul>
-    <li>🎯 <strong>최종 목표</strong>: 에듀테크 기업 CEO, 교육의 혁신 주도</li>
-    <li>🤝 <strong>팀플레이어</strong>: 협력에 진심, 함께 성장을 추구</li>
-    <li>🌈 <strong>도움의 행복</strong>: 타인의 문제를 해결할 때 가장 행복함</li>
-</ul>
+## 🌟 목표와 가치관
+- 🎯 **최종 목표**: 에듀테크 기업 CEO, 교육의 혁신 주도
+- 🤝 **팀플레이어**: 협력에 진심, 함께 성장을 추구
+- 🌈 **도움의 행복**: 타인의 문제를 해결할 때 가장 행복함
 
-<h2>💬 TMI</h2>
-<ul>
-    <li><strong>INFP</strong>인데 주변 사람들이 인정을 안해줘요.</li>
-    <li><strong>수다 좋아해요.</strong> 먼저 말 걸어줘도 좋아해요.</li>
-    <li>영어교육과 다니면서 "넌 영어교사 안 할 것 같다"는 말을 제일 많이 들었어요.</li>
-    <li>SW 활용 영어 프로젝트 수업 만들다가 답답해서 "내가 원하는 서비스, 내가 만들어야겠다!"는 마음으로 개발자로 커리어 전환을 결심했습니다.</li>
-</ul>
-
+## 💬 TMI
+- **INFP**인데 주변 사람들이 인정을 안해줘요.
+- **수다 좋아해요.** 먼저 말 걸어줘도 좋아해요.
+- 영어교육과 다니면서 "넌 영어교사 안 할 것 같다"는 말을 제일 많이 들었어요.
+- SW 활용 영어 프로젝트 수업 만들다가 답답해서 "내가 원하는 서비스, 내가 만들어야겠다!"는 마음으로 개발자로 커리어 전환을 결심했습니다.
 
 ## 🌟 강점
 
