@@ -24,7 +24,7 @@
 ### **프론트엔드**
 - **프론트 기술 스택**: HTML, CSS, JavaScript, Vue.js, React, Tailwind, Bootstrap, Vuetify, Figma
 - **사용자 중심 사고**: 교사 출신으로 사용자 중심 사고 탑재. UI/UX 설계와 컴포넌트 기반 설계를 통해 사용자 중심의 인터페이스 구현 경험.
-- **백엔드와 협업 경험**: DB모델, API 명세서 설계 경험. GitHub와 Postman Mock Server 활용해 안정적인 코드 관리와 협업 경험.
+- **백엔드와 원활한 협업**: DB모델, API 명세서 설계 경험. GitHub와 Postman Mock Server 활용해 안정적인 코드 관리.
 - **빠른 습득력**: OPI Superior 수준의 영어 실력을 활용한 구글링 및 AI 툴로 문제를 신속 정확히 해결 & 새로운 기술 습득 후 적용.
 
 ### **소프트스킬**
