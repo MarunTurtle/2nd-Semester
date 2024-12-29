@@ -1,4 +1,4 @@
-# 🏆 안녕하세요! 이재현입니다.
+# 🏆 안녕하세요! 이재현입니다. 🐙 [Github](https://github.com/MarunTurtle)  
 
 <a href="https://github.com/user-attachments/assets/1d1ca869-16bb-4c24-99c5-dd3fe2520adb">
     <img src="https://github.com/user-attachments/assets/1d1ca869-16bb-4c24-99c5-dd3fe2520adb" width="300">
@@ -34,7 +34,7 @@
 
 ---
 
-## 🌟 대표 프로젝트 요약 🐙 [Github 링크](https://github.com/MarunTurtle)  
+## 🌟 대표 프로젝트 요약 
 
 ### 1. [Office Olympics](https://github.com/MarunTurtle/OfficeOlympics)
 - **프로젝트 소개**: SSAFY 관통프로젝트 최우수상 수상작. 팀빌딩을 위해 개발된 사무실 맞춤형 서비스.
