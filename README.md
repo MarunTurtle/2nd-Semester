@@ -3,10 +3,10 @@
 <a href="https://github.com/user-attachments/assets/dc297162-ee08-4b90-b6f5-a3d65c4035c8">
     <img src="https://github.com/user-attachments/assets/dc297162-ee08-4b90-b6f5-a3d65c4035c8" width="300" align="right">
 
-## 🌟 목표와 가치관 
-- 🎯 **최종 목표**: 에듀테크 기업 CEO, 교육의 혁신 주도
-- 🤝 **팀플레이어**: 협력에 진심, 함께 성장을 추구
-- 🌈 **도움의 행복**: 타인의 문제를 해결할 때 가장 행복함
+## 🎯 목표와 가치관 
+-  **최종 목표**: 에듀테크 기업 CEO, 교육의 혁신 주도
+- **팀플레이어**: 협력에 진심, 함께 성장을 추구
+- **도움의 행복**: 타인의 문제를 해결할 때 가장 행복함
 
 ## 💬 TMI
 - **INFP**인데 주변 사람들이 인정을 안해줘요.
